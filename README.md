@@ -11,13 +11,7 @@
 
 
 
-
-
-
 <p>Screenshots of what we did last year</p>
-
-
-
 
 
 
