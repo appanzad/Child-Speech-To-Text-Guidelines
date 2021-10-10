@@ -19,7 +19,9 @@ Models
 </summary>
 
   <p> - Probabilistic Inference Model: </p>
-  <p> - Generative Adversarial Network </p>
+  <p>   - Models will be trained on a collection of all the words in each transcription</p>
+  <p>   - Model trained specifically for children speech, in the context of children’s books</p>
+  <p> - Generative Adversarial Network: </p>
   
 </details>
 
