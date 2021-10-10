@@ -40,7 +40,14 @@ Models
 #### Steps
 
 <p>1. Downlaod HTK:        </p>
-<p>Link for above step</p>
+<p>https://htk.eng.cam.ac.uk/down load.shtml</p>
+<details>
+<summary>
+  Installation Example
+</summary>
+  <p>https://htk.eng.cam.ac.uk/docs/inst-nix.shtml</p>
+</details>
+
 
 <p>2.        </p>
 <p>3.        </p>
