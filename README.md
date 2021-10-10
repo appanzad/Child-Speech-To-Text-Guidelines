@@ -2,7 +2,7 @@
 
 <p align="center"><span>a logo or image representing the project</span></p>
 
-<p>Child Speech to Text is </p>
+<p>Child Speech to Text is where</p>
 
 ## Work Done Last Year
 
