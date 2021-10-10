@@ -14,13 +14,21 @@ The work we did last year was gather all the data we needed, understand what it 
 Models
 </summary>
 
-  <p> Probabilistic Inference Model: </p>
-  <p> Generative Adversarial Network </p>
+  <p> - Probabilistic Inference Model: </p>
+  <p> - Generative Adversarial Network </p>
   
 </details>
 
 
-<p>Screenshots of what we did last year</p>
+
+<details>
+<summary>
+  Screenshots of what we did Last Year
+</summary>
+  <p> Image 1 </p>
+  <p> Image 2 </p>
+ 
+</details>
 
 
 ## Installation
