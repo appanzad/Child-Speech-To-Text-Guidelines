@@ -18,10 +18,10 @@ We also created applied a pre-emphasis filter where we created a log-mel spectro
 Models
 </summary>
 
-  <p> - Probabilistic Inference Model: </p>
+  <p> 1. Probabilistic Inference Model: </p>
   <p>   - Models will be trained on a collection of all the words in each transcription</p>
   <p>   - Model trained specifically for children speech, in the context of children’s books</p>
-  <p> - Generative Adversarial Network: </p>
+  <p> 2. Generative Adversarial Network: </p>
   
 </details>
 
