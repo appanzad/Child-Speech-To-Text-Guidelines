@@ -59,3 +59,10 @@ Models
 
 ### Problems faced in Installation
 
+## Research Papers
+
+<p> add papers and info from those papers that is relevant to the project </p>
+
+## Current Work
+
+## Moel Architecture Overview
