@@ -2,7 +2,7 @@
 
 <p align="center"><span>a logo or image representing the project</span></p>
 
-<p>Child Speech to Text is where</p>
+<p>Child Speech to Text is a team where we specialize in parent-child verbal interactions. There are several times where we are not able to understand what young children are speaking but due to this project we will be able to transcribe thos interactions using speech datasets that are available to us now. Evntually, we will have a working automated speech-to-text algorithm with a user interface as well.</p>
 
 ## Work Done Last Year
 
@@ -44,7 +44,7 @@ Models
 #### Steps
 
 <p>1. Downlaod HTK:        </p>
-<p>https://htk.eng.cam.ac.uk/down load.shtml</p>
+<p>https://htk.eng.cam.ac.uk/download.shtml</p>
 <details>
 <summary>
   Installation Example
