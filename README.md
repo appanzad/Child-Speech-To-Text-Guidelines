@@ -22,6 +22,7 @@ Models
   <p>   - Models will be trained on a collection of all the words in each transcription</p>
   <p>   - Model trained specifically for children speech, in the context of children’s books</p>
   <p> 2. Generative Adversarial Network: </p>
+  <p>   - Generate synthetic children speaking data enhance model performance </p>
   
 </details>
 
@@ -53,9 +54,9 @@ Models
 </details>
 
 
-<p>2.        </p>
+<p>2. Download Sox and Python 3 </p>
+<p> https://sourceforge.net/projects/sox/ </p>
 <p>3.        </p>
-<p>4.        </p>
 
 ### Problems faced in Installation
 
