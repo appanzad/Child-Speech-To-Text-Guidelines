@@ -66,4 +66,6 @@ Models
 
 ## Current Work
 
+<p> Currently, we are working on aligning the audio files and researching into Hidden Markov Models and Deep Learning. We are working on documenting our project as well. </p>
+
 ## Moel Architecture Overview
