@@ -56,7 +56,8 @@ Models
 
 <p>2. Download Sox and Python 3 </p>
 <p> https://sourceforge.net/projects/sox/ </p>
-<p>3.        </p>
+<p>3. Run the 3 commands to align the scripts</p>
+<p> https://github.com/ucbvislab/p2fa-vislab </p>
 
 ### Problems faced in Installation
 
@@ -69,3 +70,12 @@ Models
 <p> Currently, we are working on aligning the audio files and researching into Hidden Markov Models and Deep Learning. We are working on documenting our project as well. </p>
 
 ## Moel Architecture Overview
+
+### Hidden Markov Models
+
+<p> </p>
+
+### Deep Learning Models
+
+<p> </p>
+
