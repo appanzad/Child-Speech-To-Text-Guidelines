@@ -53,13 +53,14 @@ Models
   <p>https://htk.eng.cam.ac.uk/docs/inst-nix.shtml</p>
 </details>
 
-
 <p>2. Download Sox and Python 3 </p>
 <p> https://sourceforge.net/projects/sox/ </p>
 <p>3. Run the 3 commands to align the scripts</p>
 <p> https://github.com/ucbvislab/p2fa-vislab </p>
 
 ### Problems faced in Installation
+
+<p> -   </p>
 
 ## Research Papers
 
@@ -73,7 +74,7 @@ Models
 
 ### Hidden Markov Models
 
-<p> </p>
+<p> This model is a type of probabilistic graphical model which allows us to predict a sequence of hidden variables from a specific set of observed variables. For example, based on what peoplr are wearing we can predict the weather. In this case, the they of clothes that someone wears is the observed varibale whereas the weather is te hidden variable.</p>
 
 ### Deep Learning Models
 
